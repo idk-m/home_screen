@@ -5,6 +5,7 @@ module.exports = {
     colors: {
       'rosado': '#EB0062',
       'verde' : '#72DB85',
+      'celeste': '#2196F3',
     },
     extend: {
       fontFamily:{

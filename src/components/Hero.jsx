@@ -6,7 +6,7 @@ const Hero = () => {
     
     <div>
       <div className="flex justify-center items-center h-48 -mb-52 mt-10">
-      <h1 className="bg-transparent hover:text-8xl text-white text-6xl font-rubik">¡KACHI-PUM!</h1>
+      <h1 className="bg-transparent hover:text-8xl text-white text-8xl font-rubik">¡KACHI-PUM!</h1>
       </div>
       <div className='flex justify-center items-center h-screen'>
         <div className="max-w-2xl"> 
